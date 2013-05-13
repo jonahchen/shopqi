@@ -1,5 +1,7 @@
 #rails new . -d postgresql -T -J
-source 'http://rubygems.org'
+source 'http://ruby.taobao.org/'
+#source 'https://rubygems.org'
+
 
 gem 'rails', '3.2.7'
 
